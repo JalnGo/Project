@@ -1,0 +1,9 @@
+C:\src\ForProject\ForProject\bin\Debug\netcoreapp1.1\ForProject.deps.json
+C:\src\ForProject\ForProject\bin\Debug\netcoreapp1.1\ForProject.runtimeconfig.json
+C:\src\ForProject\ForProject\bin\Debug\netcoreapp1.1\ForProject.runtimeconfig.dev.json
+C:\src\ForProject\ForProject\bin\Debug\netcoreapp1.1\ForProject.dll
+C:\src\ForProject\ForProject\obj\Debug\netcoreapp1.1\ForProject.csprojResolveAssemblyReference.cache
+C:\src\ForProject\ForProject\obj\Debug\netcoreapp1.1\ForProject.AssemblyInfo.cs
+C:\src\ForProject\ForProject\bin\Debug\netcoreapp1.1\ForProject.pdb
+C:\src\ForProject\ForProject\obj\Debug\netcoreapp1.1\ForProject.dll
+C:\src\ForProject\ForProject\obj\Debug\netcoreapp1.1\ForProject.pdb
